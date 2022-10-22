@@ -13,7 +13,7 @@ Happy hacking!
 
 ## — dotlabs —
 
-Easy start | goerli address:
+Easy start | goerli address: hhhh.
 A minimum of 5 free points.
 
 Fragile airdrop | goerli address:
